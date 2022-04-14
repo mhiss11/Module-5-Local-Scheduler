@@ -1,5 +1,6 @@
-#Local Scheduler
-This was a homework for the Butler Coding Bootcamp and is a Local Scheduler
+Local Scheduler Module 5
+
+This was a homework for the Butler Coding Bootcamp and is a Local Scheduler.
 
 Description
 This is designed to build a scheduler that had local storage. It can save the information even when the page is refreshed. The HTML and CSS files were given whie the Javascript was not. 
